@@ -1,0 +1,6 @@
+name, age, address
+mark, 21, at home
+jordan, 19, his place
+jack, 54, the office
+john, 24, mother's house
+matthew, 11, band prac
